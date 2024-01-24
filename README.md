@@ -1,0 +1,11 @@
+# Anonymous and Decentralized Freelance Work System: Freelance Society
+
+## Abstract
+
+Freelance Society is an in development open source project built on top of Ethereum that allows anyone connected to the internet to participate in a capitalist market. The system consists of three entities: managers, workers, and validators. Managers provide a public job with a financial reward open to be completed by anyone. Any worker in the network can participate and submit their work to complete the job. Validators verify the integrity of the work in accordance to the original specifications of the job. If the validators claim the work satisfies the job, then the worker is compensated with the reward, and otherwise is rejected an open to other contributions. The system aims to maintain economic incentives for all parties to act honestly and behave in ways that allow the process of labor to be exchanged for money.
+
+## Introduction
+
+One thing that can be learned through the 2020 pandemic is that many jobs can be completed purely through computers. Work can broadly be separated into four categories: gathering physical resources, manipulating physical resources, gathering information, and manipulating information. Although gathering and manipulating physical resources cannot easily be done through the internet, gathering and manipulating information can be communicated strictly through computers on the internet. This project hopes to improve the market of labor on the internet.
+
+Additionally, by the nature of this work that can be completed strictly through a computer, this project hopes to broaden the work opportunities to be completed by anyone. Since work can be submitted anonymously, all personal factors of the worker are independent from the labor-money exchange. Irrelevant factors for work include ethnicity, gender, political views, social status, sexual orientation, criminal status, economic status, college degree or lack thereof, age, disability status, country of residence, etc. Since any person or entity can submit work, the market of workers is as broad as possible. Any labor discrimination that exists in the physical world prevents economic opportunity that can be taken advantage of by this system. There is minimal barrier to entry, so any barriers of entry that exists in the physical world will attract labor to this project.
