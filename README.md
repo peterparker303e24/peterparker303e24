@@ -18,7 +18,9 @@ Tasks are posted by managers on Ethereum through smart contracts. The task post 
 
 ## Task Specifications
 
-## The Charter
+## The List
+
+The list is a centralized document that displays the evaluation procedure of all tasks. A link to The List is contained on the Ethereum contract along with its hash value. Each task in the list contains an ID and a succinct procedure that defines whether a given product meets the criteria for completion. Each requirement of a task proposed by a manager must exclusively reference some evaluation procedure on The List. The List can be updated such that any evaluation procedure can be added, edited, or deleted. Any update must be approved by some significant number of validators. The update must be a unit change for it to be approved. Any procedures that are updated must have an incremental version number to prevent conflicts in evaluating the procedure. The List is entirely controlled by the validators since they are the ones evaluating the work, therfore they are incentivized to only allow evaluation procedures that are reliable and repeatable. Any evaluation metrics that allow for too much variabliity will cause disagreement among the validators and this disagreement may lead to and unfair deduction of financial rewards for rational validators. 
 
 ## Workers
 
