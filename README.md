@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Freelance Society is an in development open source project built on top of Ethereum that allows anyone connected to the internet to participate in a capitalist market. The system consists of three entities: managers, workers, and validators. Managers provide a public job with a financial reward open to be completed by anyone. Any worker in the network can participate and submit their work to complete the job. Validators verify the integrity of the work in accordance to the original specifications of the job. If the validators claim the work satisfies the job, then the worker is compensated with the reward, and otherwise is rejected an open to other contributions. The system aims to maintain economic incentives for all parties to act honestly and behave in ways that allow the process of labor to be exchanged for money.
+Freelance Society is an open source project currently in development and built on top of Ethereum that allows anyone connected to the internet to participate in a free labor market for virtual work. The system consists of three entities: managers, workers, and validators. Managers provide a public job with a financial reward open to be completed by anyone. Any worker in the network can participate and submit their work to complete the job. Validators verify the integrity of the work in accordance to the original specifications of the job. If the validators claim the work satisfies the job, then the worker is compensated with the reward, and otherwise is rejected and open to other contributions. The system aims to maintain economic incentives for all parties to act honestly and efficiently allow for the process of labor to be exchanged for money.
 
 ## Introduction
 
